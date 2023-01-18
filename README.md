@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ttheusLima
-- 👀 I’m interested in c#
+- 👀 I’m interested in c#, .Net Core and MySqlServer.
 - 🌱 I’m currently learning Web API
 
 
