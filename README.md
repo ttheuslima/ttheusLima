@@ -1,6 +1,13 @@
+# Matheus Lima 
+
 - 👋 Hi, I’m @ttheusLima
 - 👀 I’m interested in c#, .Net Core and MySqlServer.
 - 🌱 I’m currently learning Web API
+
+#### 👉 About Me
+
+- ⌨ Favorite editor: VsCode
+- 🖥 Favorite language: .Net Core
 
 
 <div align="center">
