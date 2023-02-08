@@ -1,6 +1,9 @@
 # Matheus Lima 
 
+<!--<img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Angelo&nbsp;Fallaria's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" alt="GitHub readme stats" width=450px align=right>-->
+
 - 👋 Hi, I’m @ttheusLima
+- 🌱 I am a Back-end developer
 - 👀 I’m interested in c#, .Net Core and MySqlServer.
 - 🌱 I’m currently learning Web API
 
