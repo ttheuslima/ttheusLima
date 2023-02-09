@@ -15,11 +15,15 @@
 - ⌨ Favorite editor: VsCode
 - 🖥 Favorite language: .Net Core
 
+<br>
+<br>
 
-<div style="display: inline_block"><br>
+# Languages and Tools
+<div>
   <img align="center" alt="ttheus-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="ttheus-.NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="ttheus-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
   
 
 <!---
