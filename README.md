@@ -10,7 +10,7 @@
 
 #### 👉 About Me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheusLima&layout=compact&langs_count=7&theme=dark&border=true&hide=issues" alt="Most Used Language" width=450px align=right>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheusLima&layout=compact&langs_count=7&theme=dark&hide_border=true&hide=issues" alt="Most Used Language" width=450px align=right>
 
 - ⌨ Favorite editor: VsCode
 - 🖥 Favorite language: .Net Core
