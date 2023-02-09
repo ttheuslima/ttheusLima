@@ -3,6 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ttheuslima&theme=dark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Matheus&nbsp;Lima's&nbsp;GitHub&nbsp;Stats&title&private=true" alt="GitHub readme stats" width=450px align=right>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheusLima&layout=compact&langs_count=7&theme=dark&hide_border=true&hide=issues" alt="Most Used Language" width=450px align=right>
 
 - 👋 Hi, I’m @ttheusLima
 - 🌱 I am a Back-end developer
@@ -10,8 +11,6 @@
 - 🌱 I’m currently learning Web API
 
 #### 👉 About Me
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheusLima&layout=compact&langs_count=7&theme=dark&hide_border=true&hide=issues" alt="Most Used Language" width=450px align=right>
 
 - ⌨ Favorite editor: VsCode
 - 🖥 Favorite language: .Net Core
