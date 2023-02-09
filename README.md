@@ -1,6 +1,6 @@
 # Matheus Lima 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ttheusLima&theme=dark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Matheus&nbsp;Lima's&nbsp;GitHub&nbsp;Stats&title&private=true" alt="GitHub readme stats" width=450px align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=ttheuslima&theme=dark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Matheus&nbsp;Lima's&nbsp;GitHub&nbsp;Stats&title&private=true" alt="GitHub readme stats" width=450px align=right>
 
 
 - 👋 Hi, I’m @ttheusLima
