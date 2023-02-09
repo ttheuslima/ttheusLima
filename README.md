@@ -1,6 +1,7 @@
 # Matheus Lima 
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Angelo&nbsp;Fallaria's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" alt="GitHub readme stats" width=450px align=right>-->
+<img src="https://github-readme-stats.vercel.app/api?username=ttheusLima&theme=dark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Matheus&nbsp;Lima's&nbsp;GitHub&nbsp;Stats&title&private=true" alt="GitHub readme stats" width=450px align=right>
+
 
 - 👋 Hi, I’m @ttheusLima
 - 🌱 I am a Back-end developer
@@ -9,15 +10,11 @@
 
 #### 👉 About Me
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheusLima&layout=compact&langs_count=7&theme=dark&border=true&hide=issues" alt="Most Used Language" width=450px align=right>
+
 - ⌨ Favorite editor: VsCode
 - 🖥 Favorite language: .Net Core
 
-
-<div align="center">
-    <a href="https://github.com/ttheusLima">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ttheusLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheusLima&layout=compact&langs_count=7&theme=dark" />
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ttheus-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
