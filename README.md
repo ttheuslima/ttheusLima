@@ -16,7 +16,6 @@
 - 🖥 Favorite language: .Net Core
 
 <br>
-<br>
 
 # Languages and Tools
 <div>
