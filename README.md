@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @ttheusLima
 - 🌱 I am a Back-end developer
-- 👀 I’m interested in c#, .Net Core and MySqlServer.
+- 👀 I’m interested in c#, .Net Core and SqlServer.
 - 🌱 I’m currently learning Web API
 
 #### 👉 About Me
