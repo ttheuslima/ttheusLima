@@ -21,7 +21,7 @@
 <br>
 <br>
 
-# Languages and Tools
+## Languages and Tools
 <div>
   <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt=".NET Core" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
