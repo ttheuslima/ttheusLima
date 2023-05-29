@@ -14,6 +14,7 @@
 - 😄 Pronouns: he/him
 - ⌨ Favorite editor: VsCode
 - 🖥 Favorite language: .Net Core
+- ⚡ Fact: I love to play games
 
 <br>
 <br>
